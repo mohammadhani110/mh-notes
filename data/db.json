@@ -23,6 +23,12 @@
       "details": "To showcase personal projects",
       "category": "todos",
       "id": 4
+    },
+    {
+      "title": "Complete React Playlist",
+      "details": "Cover all Intermediate and Fundamentals topics",
+      "category": "todos",
+      "id": 5
     }
   ]
 }
